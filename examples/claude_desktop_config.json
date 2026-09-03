@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aureum": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://aureum-tech.com/mcp"]
+    }
+  }
+}
